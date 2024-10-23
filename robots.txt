@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://pitionski.github.io/pitionski.pitionski
+Sitemap: https://pitionski.github.io/app/pitionski.pitionski
+Sitemap: https://pitionski.github.io/assets/pitionski.pitionski
+Sitemap: https://pitionski.github.io/css/pitionski.pitionski
+Sitemap: https://pitionski.github.io/includes/pitionski.pitionski
+Sitemap: https://pitionski.github.io/item/pitionski.pitionski
+Sitemap: https://pitionski.github.io/src/pitionski.pitionski
